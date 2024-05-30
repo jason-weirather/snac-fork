@@ -1,5 +1,9 @@
 # snac
 
+This is a fork of the [snac2 repository by grunfink](https://codeberg.org/grunfink/snac2) from Codeberg.
+
+Original source: https://codeberg.org/grunfink/snac2
+
 A simple, minimalistic ActivityPub instance
 
 ## Features
